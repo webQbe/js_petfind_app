@@ -13,9 +13,9 @@
 
 ## Getting Started
 
-1. Install parcel bundler: `yarn global add parcel`
-2. Run `npm init -y`
-3. Install dependencies:
-    `yarn add @babel/core @babel/preset-env fetch-jsonp`
+1. Run `npm init -y`
+2. Install dependencies:
+    `yarn add parcel @babel/core @babel/preset-env fetch-jsonp`
+3. Delete `package-lock.json` file if `yarn.lock` is created.
 
 ## Register a key for Pet Finder API
